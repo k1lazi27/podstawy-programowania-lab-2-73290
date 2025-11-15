@@ -1,0 +1,4 @@
+text = "Studiuje-Informatykę"
+
+
+print (text[:3], text[-2:])
